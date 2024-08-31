@@ -1,6 +1,7 @@
 # Video Speed Controller
 
 ## Descrição
+## Descripcion
 
 **Video Speed Controller** é uma extensão de navegador que permite que você ajuste a velocidade de reprodução de vídeos em qualquer site. Ideal para quem estuda online, assiste tutoriais, ou deseja otimizar o tempo assistindo seus vídeos favoritos. Com controles simples e personalizáveis, você pode acelerar ou desacelerar vídeos com apenas um clique.
 
@@ -13,6 +14,7 @@
 - **Leve e Rápido:** A extensão é leve e não compromete o desempenho do seu navegador.
 
 ## Instalação
+## Instalacion
 
 1. Clone este repositório ou baixe o arquivo ZIP.
 2. Abra o seu navegador e vá para a página de extensões:
